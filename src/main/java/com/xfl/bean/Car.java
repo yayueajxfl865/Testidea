@@ -20,5 +20,9 @@ public class Car {
 
     private String speed;
     private String height;
+    
+    private String ce;
+    
+    
 
 }
